@@ -1,4 +1,4 @@
-package com.project.software.lunchuis;
+package com.proyecto.software.lunchuis;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
