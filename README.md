@@ -3,7 +3,7 @@ En el presente repositorio se colocaran los archivos relacionados con el proyect
 
 # OBJETIVO GENERAL DEL PROYECTO
 Desarrollar una solución software en forma de página web y/o app móvil que automatice el proceso de compra del servicio de "combo saludable" de la Universidad Industrial de Santander, con el fin de mejorar la eficiencia y accesibilidad, reduciendo el tiempo de espera y los inconvenientes asociados al sistema presencial actual.
-
+TESTETESTETEST
 
 ## OBJETIVOS ESPECÍFICOS DEL PROYECTO
 - **Crear** un sistema de compra en línea que permita a los estudiantes adquirir el combo saludable de manera remota.
